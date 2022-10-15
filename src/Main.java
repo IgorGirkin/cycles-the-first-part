@@ -38,14 +38,16 @@ public class Main {
          System.out.println("Задание 2");
 
         for (int m=7; m<=98; m=m+7) {
-            System.out.println(m);
+            System.out.print(m+" ");
         }
+        System.out.println();
         //Задание 3
          System.out.println("Задание 3");
 
         for (int z=1; z<=512; z=z*2) {
-            System.out.println(z);
+            System.out.print(z +" ");
         }
+        System.out.println();
         //Домашнее задание - 3
         //Задание 1
          System.out.println("Домашнее задание - 3");
